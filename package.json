@@ -1,0 +1,25 @@
+{
+  "name": "pesto--calendar-app",
+  "version": "1.0.0",
+  "description": "This is an demo application build for Pesto as a part of the assignment. This Web App is React & NodeJS based and captures user query through a Calendar and stores under a JSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HostFuture/Pesto--Calendar-App.git"
+  },
+  "keywords": [],
+  "author": "Debjit Sadhukhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HostFuture/Pesto--Calendar-App/issues"
+  },
+  "homepage": "https://github.com/HostFuture/Pesto--Calendar-App#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}

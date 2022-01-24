@@ -1,0 +1,15 @@
+.fc .fc-col-header {
+  line-height: 250%;
+}
+.fc .fc-list-day {
+  color: cornflowerblue;
+}
+.fc .fc-event-title-container {
+  overflow: auto;
+  padding: .3rem;
+}
+.fc .fc-daygrid-day-top {
+  justify-content: center;
+  font-size: 0.9rem;
+  line-height: 2rem;
+}
