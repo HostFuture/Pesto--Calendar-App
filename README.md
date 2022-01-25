@@ -1,5 +1,7 @@
 # Pesto: Calendar App
 
+![GitHub top language](https://img.shields.io/github/languages/top/HostFuture/Pesto--Calendar-App?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/HostFuture/Pesto--Calendar-App?style=for-the-badge)
+
 This is an demo application build for Pesto as a part of the assignment. This Web App is React & NodeJS based and captures user query through a Calendar and stores under a JSON file.
 
 ## Index
